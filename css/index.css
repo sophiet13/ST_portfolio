@@ -1,0 +1,55 @@
+body {
+	font-family: 'PT Sans', sans-serif;
+	color: dimgray;
+}
+
+a {
+	color: pink;
+}
+
+.navbar-default {
+	background-color: #D11149;
+	border-color: #D11149;
+	border-radius: 0px;
+}
+
+.navbar-default .navbar-brand {
+	color:white;
+	font-weight: bold;
+}
+
+.navbar-default .navbar-nav li a {
+	color:white;
+}
+.navbar-default .navbar-nav li a:hover {
+    color: indigo;
+}
+.container {
+	width: 80%;
+}
+
+@media only screen and (max-width: 480px) {
+	.container {
+		width: 100%;
+	}
+	}
+
+h2 {
+	color: #D11149;
+}
+
+h3 {
+	color: #D11149;	
+}
+h4 {
+	font-size: 20px;
+	color: indigo;
+}
+h5 {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white;
+}
