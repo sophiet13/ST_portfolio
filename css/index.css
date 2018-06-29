@@ -26,14 +26,21 @@ a {
 }
 .container {
 	width: 80%;
-	margin-top: 90px;
+			margin-top: 90px;
+
 }
 
+ .jumbotron {
+	background-image: url("http://www.enviroengineers.com.au/img/banner2.jpg");
+	background-size: cover;
+	color: white;
+	text-align: center;
+}
 @media only screen and (max-width: 480px) {
 	.container {
 		width: 100%;
 	}
-	}
+}
 
 h2 {
 	color: #D11149;
