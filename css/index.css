@@ -26,6 +26,7 @@ a {
 }
 .container {
 	width: 80%;
+	margin-top: 90px;
 }
 
 @media only screen and (max-width: 480px) {
@@ -52,4 +53,10 @@ h5 {
 
 .navbar-default .navbar-toggle .icon-bar {
     background-color: white;
+}
+
+#linkedin {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 150px;
 }
