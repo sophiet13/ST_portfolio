@@ -57,6 +57,12 @@ h5 {
 	font-weight: bold;
 	font-size: 16px;
 }
+h6 {
+	font-weight: bold;
+	font-size: 14px;
+
+
+}
 
 .navbar-default .navbar-toggle .icon-bar {
     background-color: white;
@@ -66,4 +72,8 @@ h5 {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	width: 150px;
+}
+
+.rounded {
+	border-radius: 10px;
 }
